@@ -1,3 +1,3 @@
 <h1>Looper</h1>
-<h3>First Question</h3>
-<img src="output/first.png">
+<h3>Alphabet Program</h3>
+<img src="output/Alphabet.png">
