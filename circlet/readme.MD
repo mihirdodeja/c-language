@@ -1,0 +1,14 @@
+<h1>Pattern Programs</h1>
+<h3>First Program</h3> 
+<img src="output/first_program.png"/>
+<h3>Second Program</h3> 
+<h3>Third Program</h3> 
+<img src="output/third_program.png"/>
+<h3>Fourth Program</h3> 
+<img src="output/fourth_program.png"/>
+<h3>Fifth Program</h3> 
+<img src="output/fifth_program.png"/>
+<h3>Sixth Program</h3> 
+<img src="output/sixth_program.png"/>
+<h3>Seventh Program</h3> 
+<img src="output/seventh_program.png"/>
