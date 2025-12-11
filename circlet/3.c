@@ -5,11 +5,11 @@ int main()
     {
        for(int k=1;k<i;k++)
        {
-          printf(" ");
+            printf(" ");
        }
        for(int j=i;j<=5;j++)
        {
-          -printf("%d",j);
+            printf("%d",j);
        }
         printf("\n");
     }

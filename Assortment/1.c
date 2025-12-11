@@ -23,7 +23,4 @@ int main()
             printf("\nNegative Elements in Array: %d",a[i]);
         }
     }
-
-    
-
 }

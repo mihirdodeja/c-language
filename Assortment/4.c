@@ -20,6 +20,16 @@ int main()
             scanf("%d", &a[i][j]);
         }
     }
+    printf("Array Elements: \n");
+    for (int i = 0; i < row; i++) 
+    {
+        for (int j = 0; j < col; j++) 
+        {
+            printf("%d\t",a[i][j]);
+        }
+        printf("\n");
+    }
+
 
     int rowNum, colNum;
 
@@ -31,11 +41,13 @@ int main()
 
     int sumRow = 0, sumCol = 0;
 
-    for (int j = 0; j < col; j++) {
+    for (int j = 0; j < col; j++) 
+    {
         sumRow += a[rowNum][j];
     }
 
-    for (int i = 0; i < row; i++) {
+    for (int i = 0; i < row; i++) 
+    {
         sumCol += a[i][colNum];
     }
 
